@@ -1,0 +1,34 @@
+input {
+  text-align: center;
+}
+
+#judul{
+  font-size: 20px;
+}
+#kalkulator{
+  max-width: 300px;
+  margin: auto;
+}
+
+#btn_hitung{
+  display: block;
+  width: 100%;
+  margin: 15px 0;
+}
+
+#hasil{
+  font-size: 40px;
+  width: 100%;
+}
+
+#blok_input{
+  display: flex;
+  align-items: space-between;
+  gap: 15px;
+}
+
+.fullwidth{
+  display: block;
+  width: 100%;
+}
+
